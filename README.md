@@ -11,9 +11,8 @@
 </div>
 
 	🇵🇱 Polish IPS translation applications
- 
-<a href="https://github.com/PawelCode/ips-lang-polish-pc-forum-addons">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pawelcode&repo=ips-lang-polish-pc-forum-addons&theme=swift" />
+<a href="https://github.com/PawelCode/ips-lang-polish-donations">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pawelcode&repo=ips-lang-polish-donations&theme=swift" />
 </a>
 <a href="https://github.com/PawelCode/ips-lang-polish-chatbox">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pawelcode&repo=ips-lang-polish-chatbox&theme=swift" />
@@ -22,12 +21,12 @@
 <a href="https://github.com/PawelCode/ips-lang-polish-autowelcome">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pawelcode&repo=ips-lang-polish-autowelcome&theme=swift" />
 </a>
-<a href="https://github.com/PawelCode/ips-lang-polish-donations">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pawelcode&repo=ips-lang-polish-donations&theme=swift" />
-</a>
-<br><br>
 <a href="https://github.com/aXenDeveloper/ips-lang-polish-chatbox-plus">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pawelcode&repo=ips-lang-polish-chatbox-plus&theme=swift" />
+</a>
+<br><br>
+<a href="https://github.com/PawelCode/ips-lang-polish-pc-forum-addons">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pawelcode&repo=ips-lang-polish-pc-forum-addons&theme=swift" />
 </a>
 
 ___
