@@ -1,6 +1,7 @@
+	💣 Applications for IPS:
+
 <div align="left">
 
-	💣 Applications for IPS:
 
 | Name                                | Price          |
 |:------                              |:----------------------|
