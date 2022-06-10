@@ -1,16 +1,42 @@
-### Hi there 👋
+<div align="left">
 
-<!--
-**PawelCode/PawelCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+	💣 Applications for IPS:
 
-Here are some ideas to get you started:
+| Name                                | Price          |
+|:------                              |:----------------------|
+| [(ITV) Forum add-ons](https://invisioncommunity.com/files/file/10113-itv-featured-groups/) | $16.00 |
+| [(ITV) Featured groups](https://invisioncommunity.com/files/file/10113-itv-featured-groups/) | $11.00 |
+</br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+	🇵🇱 Polish IPS translation applications
+ 
+<a href="https://github.com/PawelCode/ips-lang-polish-pc-forum-addons">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pawelcode&repo=ips-lang-polish-pc-forum-addons&theme=swift" />
+</a>
+<a href="https://github.com/PawelCode/ips-lang-polish-chatbox">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pawelcode&repo=ips-lang-polish-chatbox&theme=swift" />
+</a>
+<br><br>
+<a href="https://github.com/PawelCode/ips-lang-polish-autowelcome">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pawelcode&repo=ips-lang-polish-autowelcome&theme=swift" />
+</a>
+<a href="https://github.com/PawelCode/ips-lang-polish-donations">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pawelcode&repo=ips-lang-polish-donations&theme=swift" />
+</a>
+<br><br>
+<a href="https://github.com/aXenDeveloper/ips-lang-polish-chatbox-plus">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pawelcode&repo=ips-lang-polish-chatbox-plus&theme=swift" />
+</a>
+
+___
+
+	🎮 Counter-Strike
+
+<a href="https://github.com/PawelCode/BasePack">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pawelcode&repo=BasePack&theme=swift" />
+</a>
+
+----
+In progress 😎
