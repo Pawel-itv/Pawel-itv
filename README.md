@@ -37,6 +37,9 @@ ___
 <a href="https://github.com/PawelCode/BasePack">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pawelcode&repo=BasePack&theme=swift" />
 </a>
+<a href="https://github.com/PawelCode/BasePack_win">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pawelcode&repo=BasePack_win&theme=swift" />
+</a>
 
 ----
 In progress 😎
