@@ -1,7 +1,10 @@
-	💣 Applications for IPS:
-
 <div align="left">
 
+	📑 Discord
+
+![DiscordPresence](https://lanyard.cnrad.dev/api/452208709897027594)
+
+	💣 Applications for IPS:
 
 | Name                                | Price          |
 |:------                              |:----------------------|
