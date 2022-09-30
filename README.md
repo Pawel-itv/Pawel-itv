@@ -1,48 +1,13 @@
-<div align="left">
 
-	📑 Discord
+<div align="center">
 
-![DiscordPresence](https://lanyard.cnrad.dev/api/452208709897027594)
-
-	💣 Applications for IPS:
-
-| Name                                | Price          |
-|:------                              |:----------------------|
-| [(ITV) Forum add-ons](https://invisioncommunity.com/files/file/10113-itv-featured-groups/) | $16.00 |
-| [(ITV) Featured groups](https://invisioncommunity.com/files/file/10113-itv-featured-groups/) | $11.00 |
-</br>
-
-</div>
-
-	🇵🇱 Polish IPS translation applications
-<a href="https://github.com/PawelCode/ips-lang-polish-donations">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pawelcode&repo=ips-lang-polish-donations&theme=swift" />
-</a>
-<a href="https://github.com/PawelCode/ips-lang-polish-chatbox">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pawelcode&repo=ips-lang-polish-chatbox&theme=swift" />
-</a>
+![DiscordPresence](https://lanyard-profile-readme.vercel.app/api/452208709897027594?&animated=false&idleMessage=%F0%9F%98%A2%20They%20say%20that%20time%20heals%20wounds,%20but%20that%20doesn%27t%20mean%20that%20the%20cause%20of%20sadness%20disappears.&hideDiscrim=false&hideTimestamp=false&hideBadges=true)
 <br><br>
-<a href="https://github.com/PawelCode/ips-lang-polish-autowelcome">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pawelcode&repo=ips-lang-polish-autowelcome&theme=swift" />
-</a>
-<a href="https://github.com/aXenDeveloper/ips-lang-polish-chatbox-plus">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pawelcode&repo=ips-lang-polish-chatbox-plus&theme=swift" />
-</a>
-<br><br>
-<a href="https://github.com/PawelCode/ips-lang-polish-pc-forum-addons">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pawelcode&repo=ips-lang-polish-pc-forum-addons&theme=swift" />
-</a>
 
-___
-
-	🎮 Counter-Strike
-
-<a href="https://github.com/PawelCode/BasePack">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pawelcode&repo=BasePack&theme=swift" />
-</a>
-<a href="https://github.com/PawelCode/BasePack_win">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pawelcode&repo=BasePack_win&theme=swift" />
-</a>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Maven+Pro&duration=2000&pause=500&color=2CF7F2&center=true&vCenter=true&multiline=true&width=430&height=70&lines=AMXX4u.pl;AMXX+plugins+and+packages)](https://git.io/typing-svg) <img src="http://www.discord.com/api/guilds/1016101167404695653/widget.png?style=banner2">
+	
 
 ----
-In progress 😎
+</div>
+
+In progress..
